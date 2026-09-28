@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SubscribesSmp.aternos.me",
-    "port": 26538",
+    "port": "26538",
     "version": "26.2",
     "try-creative": false
   },
